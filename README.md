@@ -340,7 +340,7 @@ If you use this library in your research, please cite:
 ```bibtex
 @software{fastknn2025,
   title = {FastKNN: High-Performance K-Nearest Neighbors Library},
-  author = {[Your Name]},
+  author = {Danial Kamali},
   year = {2025},
   note = {CMSE 822 Final Project, Michigan State University}
 }
