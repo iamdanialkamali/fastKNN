@@ -1,0 +1,40 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled libraries
+*.o
+*.a
+*.so
+*.dylib
+
+# Test outputs
+*_output.txt
+*_results.txt
+benchmark_*.txt
+test_results/
+
+# Temporary files
+*.tmp
+*.bak
+*_backup.*
